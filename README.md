@@ -1,1 +1,2 @@
 # AkaiKKR-tutorial
+2023年7月12日に行うAkaiKKRのMateriApps講習会用のリポジトリ。
