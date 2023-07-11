@@ -5,7 +5,7 @@ c   brvtyp     a        c/a   b/a   alpha   beta   gamma
     bcc      5.54  ,     ,      ,      ,       ,      ,
 c------------------------------------------------------------
 c   edelt    ewidth    reltyp   sdftyp   magtyp   record
-    0.001     1.0       nrl      mjw      mag      2nd
+    0.001     1.0       nrl      mjw      nmag      2nd
 c------------------------------------------------------------
 c   outtyp    bzqlty   maxitr   pmix
     update     6        100   0.035

@@ -5,7 +5,7 @@ c   brvtyp     a        c/a   b/a   alpha   beta   gamma
      fcc      6.76  ,      ,      ,      ,       ,      ,
 c------------------------------------------------------------
 c   edelt    ewidth    reltyp   sdftyp   magtyp   record
-    0.001     1.0       nrl      mjw      mag      2nd
+    0.001     1.0       nrl      mjw      nmag      2nd
 c------------------------------------------------------------
 c   outtyp    bzqlty   maxitr   pmix
     update      6        50    0.035
@@ -14,7 +14,7 @@ c    ntyp
       1
 c------------------------------------------------------------
 c   type    ncmp    rmt    field   mxl  anclr   conc
-    Cu       1        1      0.0     4
+    Cu       1        1      0.0     2 
                                           29    100
 c------------------------------------------------------------
 c   natm

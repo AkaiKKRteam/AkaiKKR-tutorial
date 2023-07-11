@@ -8,7 +8,7 @@ c   edelt    ewidth    reltyp   sdftyp   magtyp   record
     0.001     1.5       sra      mjw      lmd      2nd
 c------------------------------------------------------------
 c   outtyp    bzqlty   maxitr   pmix
-    update      4        50    0.03
+    update      3       200    0.03
 c------------------------------------------------------------
 c    ntyp
       4
