@@ -1,5 +1,5 @@
 c--------------------NiFe------------------------------------
-     spc   data/nife
+     go   data/nife
 c------------------------------------------------------------
 c   brvtyp     a        c/a   b/a   alpha   beta   gamma
      fcc      6.65  ,      ,      ,      ,       ,      ,
@@ -8,7 +8,7 @@ c   edelt    ewidth    reltyp   sdftyp   magtyp   record
     0.001     1.0       nrl      mjw      mag      2nd
 c------------------------------------------------------------
 c   outtyp    bzqlty   maxitr   pmix
-    update      20       100    0.023
+    update      4       100    0.023
 c------------------------------------------------------------
 c    ntyp
       1

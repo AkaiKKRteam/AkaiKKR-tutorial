@@ -1,14 +1,14 @@
 c----------------------CrAs----------------------------------
-     go   data/cras_lmd
+      go   data/cras_lmd
 c------------------------------------------------------------
 c   brvtyp     a        c/a   b/a   alpha   beta   gamma
      fcc     10.68 ,      ,      ,      ,       ,      ,
 c------------------------------------------------------------
 c   edelt    ewidth    reltyp   sdftyp   magtyp   record
-    0.001     1.5       sra      mjw      mag      2nd
+    0.001     1.5       sra      mjw      lmd      2nd
 c------------------------------------------------------------
 c   outtyp    bzqlty   maxitr   pmix
-    update      4        100    0.015
+    update      4        50    0.03
 c------------------------------------------------------------
 c    ntyp
       4
