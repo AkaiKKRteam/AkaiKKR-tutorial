@@ -12,8 +12,8 @@
 #
 #######################################
 # specify the fortran compiler
-fort = ifort
-#fort = gfortran
+#fort = ifort
+fort = gfortran
 #######################################
 ifeq ($(fort),ifort)
  	flag = -O2 -mcmodel=medium
